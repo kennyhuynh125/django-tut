@@ -1,0 +1,6 @@
+# virtual env modules
+/Include
+/Lib
+/Scripts
+/tcl
+pip-selfcheck.json
